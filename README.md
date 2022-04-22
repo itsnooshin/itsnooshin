@@ -19,3 +19,12 @@
 <a href="https://twitter.com/nooshinbakh96/"> <img src="https://svgshare.com/i/gVj.svg" width="40px"></a>
 <a href="https://myaccount.google.com/"> <img src="https://svgshare.com/i/gWE.svg" width="40px"></a>
 <a href="https://t.me/itsnooshin_96"> <img src="https://svgshare.com/i/gVt.svg" width="40px"></a>
+
+
+## Languages and Tools:
+<a href="https://code.visualstudio.com/"> <img src="https://svgshare.com/i/gTp.svg" width="40px" ></a>
+<a href="https://html.com/"> <img src="https://svgshare.com/i/gW4.svg" width="40px" ></a>
+<a href="https://css-tricks.com/"> <img src="https://svgshare.com/i/gVd.svg" width="40px" ></a>
+<a href="https://www.javascript.com/"> <img src="https://svgshare.com/i/gWF.svg" width="40px" ></a>
+<a href="https://getbootstrap.com/"> <img src="https://svgshare.com/i/gVe.svg" width="40px" ></a>
+<a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="40px" ></a>
