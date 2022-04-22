@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a self-taught coder. I like to share  my codes .🌷
+## I'm a self-taught coder.🌷
 
 
 
