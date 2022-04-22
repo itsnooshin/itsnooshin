@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##I'm a self-taught coder. I like to make stuff and post it on the internet! 👽
+
 
 
 
