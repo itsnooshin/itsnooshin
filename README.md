@@ -28,3 +28,8 @@
 <a href="https://www.javascript.com/"> <img src="https://svgshare.com/i/gWF.svg" width="40px" ></a>
 <a href="https://getbootstrap.com/"> <img src="https://svgshare.com/i/gVe.svg" width="40px" ></a>
 <a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="40px" ></a>
+
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnooshin &theme=radical)
