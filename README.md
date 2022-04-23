@@ -31,5 +31,12 @@
 
 
 
-## Git hub status
+## 📈 Git hub status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnooshin&theme=radical)
+
+## 📈 languages uses
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnooshin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
