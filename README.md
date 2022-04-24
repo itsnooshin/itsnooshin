@@ -3,6 +3,7 @@
 ## I'm a self-taught coder.🌷
 
 
+<img src="https://i.postimg.cc/Jn0kJJ76/photo-2022-04-24-12-28-06-removebg-preview.png" align="right">
 
 
 - 🔭 I’m currently working on on my projotes.
@@ -13,6 +14,7 @@
 - 📫 How to reach me: [twiiter] (https://twitter.com/nooshinbakh96) 
 - 😄 Pronouns: her/she
 - ⚡ Fun fact:  I am a persian.
+
 
 ### Talk with me :
 <a href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/"> <img src="https://svgshare.com/i/gVi.svg" width="40px" ></a>
