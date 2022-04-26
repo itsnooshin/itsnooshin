@@ -1,4 +1,7 @@
-### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px"> , I'm Nooshin 
+### <h1>Hi there 👩‍🚒 </h1>
+  <div align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nooshin+%F0%9F%91%8B;" alt="Headline" />
+    </div>
 
 ## I'm a self-taught coder.🌷
 
@@ -7,14 +10,13 @@
 
 
 
-- 🔭 I’m currently working on on my projotes.
-- 🌱 I’m currently learning HTML/CSS/Javascript.
-- 👯  I'm looking for new projects and work opportunities
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything.
-- 📫 How to reach me: [twiiter] (https://twitter.com/nooshinbakh96) 
-- 😄 Pronouns: her/she
-- ⚡ Fun fact:  I am a persian.
+✔ 🔭 I’m currently working on on my projotes.
+✔ 🌱 I’m currently learning HTML/CSS/Javascript.
+✔ 👯  I'm looking for new projects and work opportunities
+✔ 🤔 I’m looking for help with ...
+✔ 💬 Ask me about HTML/CSS.
+✔ 😄 Pronouns: her/she
+✔⚡ Fun fact:  I am a persian.
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
@@ -25,6 +27,10 @@
 	<a href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://msng.link/o/?nooshin_96=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
 </p>
+
+
+
+<img src = "https://raw.githubusercontent.com/itsnooshin/master/wave.gif" width = 30px> </h1>
 
 
 
