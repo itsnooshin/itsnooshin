@@ -11,11 +11,15 @@
 
 
 ✔ 🔭 I’m currently working on on my projotes.
+
 ✔ 🌱 I’m currently learning HTML/CSS/Javascript.
-✔ 👯  I'm looking for new projects and work opportunities
-✔ 🤔 I’m looking for help with ...
+
+✔ 👯  I'm looking for new projects and work opportunities.
+
 ✔ 💬 Ask me about HTML/CSS.
-✔ 😄 Pronouns: her/she
+
+✔ 😄 Pronouns: her/she.
+
 ✔⚡ Fun fact:  I am a persian.
 
 
