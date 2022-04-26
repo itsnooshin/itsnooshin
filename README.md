@@ -34,7 +34,7 @@
 
 
 
-<img src = "https://raw.githubusercontent.com/itsnooshin/master/wave.gif" width = 30px> </h1>
+
 
 
 
