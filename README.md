@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=itsnooshin&color=green)
   <div align="left">
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nooshin+%F0%9F%91%8B;" alt="Headline" />
     </div>
