@@ -1,35 +1,32 @@
-![](https://komarev.com/ghpvc/?username=itsnooshin&color=green)
-  <div align="left">
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nooshin+%F0%9F%91%8B;" alt="Headline" />
-    </div>
-
-## I'm a self-taught coder.🌷
-
-
-<img src="https://i.postimg.cc/Jn0kJJ76/photo-2022-04-24-12-28-06-removebg-preview.png" align="right">
 
 
 
-✔ 🔭 I’m currently working on on my projotes.
 
-✔ 🌱 I’m currently learning HTML/CSS/Javascript.
+<h1 align="center">👩🏻‍💻 Hi, I’m Nooshin </h1> 
+<h2 align="center">Frontend developer</h2>  
 
-✔ 👯  I'm looking for new projects and work opportunities.
 
-✔ 💬 Ask me about HTML/CSS.
 
-✔ 😄 Pronouns: her/she.
+➢  I’m currently working on on my projotes.  <br>
+➢ I’m currently  learning Front-End skills    <br>
+➢ I enjoy some CSS and HTML as well!     <br>
+➢ I love creating new things  <br>
+➢ I am a persian.
 
-✔⚡ Fun fact:  I am a persian.
+
+
+ 
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me:
 <p align="left">
-	<a href="mailto:nooshinbakhtiariii@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/itsnooshin"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+989039198650"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://msng.link/o/?nooshin_96=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="mailto:nooshinbakhtiariii@gmail.com"><img  src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail"/></a>
+	<a href="https://github.com/itsnooshin"><img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465"/></a> <a  target="_blank"  href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	
+
+	
+
 </p>
 
 
@@ -51,8 +48,7 @@
 ## 📈 Git hub status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnooshin&theme=radical)
 
-## 📈 languages uses
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsnooshin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
