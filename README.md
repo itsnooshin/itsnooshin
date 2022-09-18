@@ -1,10 +1,7 @@
 
+<h1>👋 Hi, I’m Nooshin </h1> 
 
-
-
-<h1 align="center">👋 Hi, I’m Nooshin </h1> 
-<h2 align="center">Frontend developer</h2>  
-
+<img  src="https://i.postimg.cc/wMrM3CCR/Untitled-1594-400-px-1.png">
 
 
 ➢  I’m currently working on on my projotes.  <br>
