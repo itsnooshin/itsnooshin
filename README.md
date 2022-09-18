@@ -3,6 +3,33 @@
 
 <img  src="https://i.postimg.cc/wMrM3CCR/Untitled-1594-400-px-1.png">
 
+<p align="center">
+  <a href="https://twitter.com/itsnooshindev"><img width="42px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/dQCp2Njh/Style-Original-Circle-Shape-True.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/"><img width="42px" alt="linkdien" title="Twitter" src="https://i.postimg.cc/zD9LMvhd/Style-Original-Circle-Sharrrrpe-True.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:nooshindev@gmail.com"><img width="42px" alt="gmail" title="gmail" src="https://i.postimg.cc/mZMZPwcw/Style-Original-Circle-spng.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ <a href=discordapp.com/users/Nooshin96#5773"><img width="42px" alt="discord" title="discord" src="https://i.postimg.cc/pr13Bm1d/ff.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/nooshin.dev/"><img width="42px" alt="instagram" title="instagram" src="https://i.postimg.cc/rwLzGz6j/Style-Original-Circle-Shapedfs-True.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+ 
+</p>
+
+<br/>
+
+
+
+
+
+<p>
+I'm Nooshin. A juiour  Developer from Iran, India. I design and develop websites, landing pages and applications for startups and enterprises. 
+     <br><br>Contact me on <a href="https://twitter.com/surjithctly">Twitter</a> or <a href="mailto&#58;m&#97;i&#108;&#64;su&#114;&#106;&#105;&#116;&#37;68%63tly&#46;i%6E">Send an Email</a>
+  </p>
+
+
+
 
 ➢  I’m currently working on on my projotes.  <br>
 ➢ I’m currently  learning Front-End skills    <br>
