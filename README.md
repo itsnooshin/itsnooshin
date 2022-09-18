@@ -29,8 +29,9 @@
 Hi 👋, I am **Nooshin**  A front-ened developer from Iran .I enjoy learning what is included in programming. I love to network, join new communities and add value ✨
 
 <div>
-<details>
-  <summary>🧑 More about me</summary>
+<br>
+
+  🧑 More about me
 
 - 🔭 I’m currently on a journey to build **great** things
 
@@ -40,7 +41,7 @@ Hi 👋, I am **Nooshin**  A front-ened developer from Iran .I enjoy learning wh
 
 - 📫 Reach me out at **nooshindev@gmail.com**
 
-</details>
+
   
 </p>
 	
