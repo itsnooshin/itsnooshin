@@ -33,15 +33,15 @@ Hi 👋, I am Nooshin, A front-end developer from Iran. I enjoy learning what is
 
    ## 💻 More about me
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 I’m currently on a journey to build **great** things.
 
-- 🌱 I’m currently learning **everything** 🤓
+- 🌱 I’m currently learning **everything** 🤓.
 	
-- 🖥 Love Programming
+- 🖥 Love Programming.
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+- 🤝 I’m looking for help with **finding projects to contribute to!**.
 
-- 📫 Reach me out at **nooshindev@gmail.com**
+- 📫 Reach me out at **nooshindev@gmail.com**.
 
 
   
