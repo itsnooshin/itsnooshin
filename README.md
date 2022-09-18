@@ -36,7 +36,6 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 - 🔭 I’m currently on a journey to build **great** things
 
 - 🌱 I’m currently learning **everything** 🤓
-- 👩‍🏫 Love teaching and sharing knowledge
 	
 - 🖥 Love Programming
 
@@ -65,11 +64,17 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 
 
 
-## 📈 Git hub status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsnooshin&theme=radical)
+<br>
+</br>
+
+ highcontrast
 
 
-
-
+<p align="center">
+  <a href="https://github.com/itsnooshin">
+    <img align="left" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsnooshin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img align="right" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsnooshin&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
 
 
