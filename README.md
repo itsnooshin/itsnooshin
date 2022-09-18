@@ -38,7 +38,6 @@ Hi 👋, I am **itsnooshin** an enthusiastic and ambitious full stack developer 
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-
 - 📫 Reach me out at **nooshindev@gmail.com**
 
 </details>
