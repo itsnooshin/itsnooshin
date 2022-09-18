@@ -31,11 +31,12 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 <div>
 <br>
 
-  🧑 More about me
+   ## 💻 More about me
 
 - 🔭 I’m currently on a journey to build **great** things
 
 - 🌱 I’m currently learning **everything** 🤓
+- 👩‍🏫 Love teaching and sharing knowledge
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
