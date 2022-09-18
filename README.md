@@ -26,7 +26,7 @@
 
 <p>
   
-Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning what is included in programming. I love to network, join new communities and add value ✨
+Hi 👋, I am Nooshin, A front-end developer from Iran. I enjoy learning what is included in the programming. I love to network, join new communities and add value ✨
 
 <div>
 <br>
