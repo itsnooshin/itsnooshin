@@ -70,7 +70,7 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 
 <div  style="display: flex; flex-direction: row;>
   <a href="https://github.com/itsnooshin">
-    <img width="40%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsnooshin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img width="45%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsnooshin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img width="40%" height="auto" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsnooshin&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
