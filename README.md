@@ -72,8 +72,8 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 
 <p align="center">
   <a href="https://github.com/itsnooshin">
-    <img align="left" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsnooshin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img align="right" height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsnooshin&layout=compact&langs_count=8&theme=radical"/>
+    <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=itsnooshin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=itsnooshin&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </p>
 
