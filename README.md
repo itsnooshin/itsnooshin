@@ -1,7 +1,7 @@
 
 <h1>👋 Hi, I’m Nooshin </h1> 
 
-<img  src="https://i.postimg.cc/wMrM3CCR/Untitled-1594-400-px-1.png">
+<img  src="https://i.postimg.cc/5y2y25Ny/Untitled-1594-400-px-2.png">
 
 <p align="center">
   <a href="https://twitter.com/itsnooshindev"><img width="42px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/dQCp2Njh/Style-Original-Circle-Shape-True.png"/></a>
