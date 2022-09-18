@@ -67,8 +67,6 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 <br>
 </br>
 
- highcontrast
-
 
 <p align="center">
   <a href="https://github.com/itsnooshin">
