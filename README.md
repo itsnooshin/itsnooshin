@@ -37,6 +37,8 @@ Hi 👋, I am **Nooshin**  A front-end developer from Iran .I enjoy learning wha
 
 - 🌱 I’m currently learning **everything** 🤓
 - 👩‍🏫 Love teaching and sharing knowledge
+	
+- 🖥 Love Programming
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
