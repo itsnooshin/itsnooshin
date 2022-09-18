@@ -10,7 +10,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nooshindev@gmail.com"><img width="42px" alt="gmail" title="gmail" src="https://i.postimg.cc/mZMZPwcw/Style-Original-Circle-spng.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="discordapp.com/users/Nooshin96#5773"><img width="42px" alt="discord" title="discord" src="https://i.postimg.cc/pr13Bm1d/ff.png"/></a>
+ <a href="https://www.discordapp.com/users/Nooshin96#5773"><img width="42px" alt="discord" title="discord" src="https://i.postimg.cc/pr13Bm1d/ff.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/nooshin.dev/"><img width="42px" alt="instagram" title="instagram" src="https://i.postimg.cc/rwLzGz6j/Style-Original-Circle-Shapedfs-True.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
