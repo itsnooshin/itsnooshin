@@ -48,7 +48,7 @@ I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn wha
 
 
 
-# 🔧 Front End Technologies
+# 🔧  Technologies
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="66" height="66" alt="HTML5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="66" height="66" alt="CSS3" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="66" height="66" alt="JavaScript" />
