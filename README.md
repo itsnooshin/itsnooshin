@@ -16,20 +16,15 @@ About Me
 I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨
 
 <div>
-<br>
+
 
  
 
 - 🔭 I’m currently on a journey to build **great** things.
-
-- 🌱 I’m currently learning **everything** 🤓.
-	
+- 🌱 I’m currently learning **everything** 🤓.	
 - 🖥 Love Programming.
-
 - 🤝 I’m looking for help with **finding projects to contribute to!**.
-
 - 📫 Reach me out at **nooshindev@gmail.com**.
-
 - 🌎 I'm based in Iran
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the [#frontendmentor](https://www.frontendmentor.io) challenge
 - 🌱 I’m currently learning html.css , javascript , reactjs
