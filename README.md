@@ -20,18 +20,18 @@ I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn wha
 
  
 
-- 🔭 I’m currently on a journey to build **great** things.
-- 🌱 I’m currently learning **everything** 🤓.	
-- 🖥 Love Programming.
-- 🤝 I’m looking for help with **finding projects to contribute to!**.
-- 📫 Reach me out at **nooshindev@gmail.com**.
+
+
 - 🌎 I'm based in Iran
 - 🔭 I’m currently working on Frontend Mentor challenge and taking the [#frontendmentor](https://www.frontendmentor.io) challenge
 - 🌱 I’m currently learning html.css , javascript , reactjs
 - ☀️ I'm starting to learn how to contribute to open source projects.
 - 💬 Ask me about a project collaboration.
-- ✉️ For work opportunities, you can contact me at [nooshindev@gmail.com](mailto:nooshindev@gmail.com)
+- ✉️ For work opportunities, you can contact me at **nooshindev@gmail.com**
+- 🖥 Love Programming.
+- 🤝 I’m looking for help with **finding projects to contribute to!**.
 - 😄 Pronouns: She/Her
+- 🍩 Fun fact: I love donuts!
 
 <br />
 
@@ -48,13 +48,74 @@ I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn wha
 
 
 
-## Languages and Tools:
-<a href="https://code.visualstudio.com/"> <img src="https://svgshare.com/i/gTp.svg" width="40px" ></a>
-<a href="https://html.com/"> <img src="https://svgshare.com/i/gW4.svg" width="40px" ></a>
-<a href="https://css-tricks.com/"> <img src="https://svgshare.com/i/gVd.svg" width="40px" ></a>
-<a href="https://www.javascript.com/"> <img src="https://svgshare.com/i/gWF.svg" width="40px" ></a>
-<a href="https://getbootstrap.com/"> <img src="https://svgshare.com/i/gVe.svg" width="40px" ></a>
-<a href="https://github.com"> <img src="https://svgshare.com/i/gVT.svg" width="40px" ></a>
+# 🔧 Front End Technologies
+
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br /><strong>JavaScript</strong>
+      </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React.js</strong>
+      </td>
+	  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        width="48"
+        height="48"
+        alt="Git"
+      />
+      <br /><strong>Git</strong>
+    </td>
+	  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+	  	  <td align="center" height="108" width="108">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="48" height="48" alt="Sass" />
+      <br /><strong>Sass</strong>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 
 
