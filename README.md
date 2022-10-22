@@ -1,4 +1,6 @@
-### Hi there 👋 <br />
+
+#    ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   Hi there 
+
 
 
 <img  src="https://i.postimg.cc/5y2y25Ny/Untitled-1594-400-px-2.png">
@@ -9,8 +11,8 @@
 
 
 
-About Me
--------------------
+#  👩‍🦰   About Me
+
 <p>
   
 I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨
