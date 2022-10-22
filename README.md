@@ -1,32 +1,24 @@
+### Hi there 👋 <br />
 
-<h1>👋 Hi, I’m Nooshin </h1> 
 
 <img  src="https://i.postimg.cc/5y2y25Ny/Untitled-1594-400-px-2.png">
 
-<p align="center">
-  <a href="https://twitter.com/itsnooshindev"><img width="42px" alt="Youtube" title="Youtube" src="https://i.postimg.cc/dQCp2Njh/Style-Original-Circle-Shape-True.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/nooshin-bakhtiari-62378520b/"><img width="42px" alt="linkdien" title="Twitter" src="https://i.postimg.cc/zD9LMvhd/Style-Original-Circle-Sharrrrpe-True.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:nooshindev@gmail.com"><img width="42px" alt="gmail" title="gmail" src="https://i.postimg.cc/mZMZPwcw/Style-Original-Circle-spng.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- <a href="https://www.discordapp.com/users/Nooshin96#5773"><img width="42px" alt="discord" title="discord" src="https://i.postimg.cc/pr13Bm1d/ff.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/nooshin.dev/"><img width="42px" alt="instagram" title="instagram" src="https://i.postimg.cc/rwLzGz6j/Style-Original-Circle-Shapedfs-True.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
- 
-</p>
+
 
 <br/>
 
+
+
+About Me
+-------------------
 <p>
   
-Hi 👋, I am Nooshin, A front-end developer from Iran. I enjoy learning what is included in the programming. I love to network, join new communities and add value ✨
+I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨
 
 <div>
 <br>
 
-   ## 💻 More about me
+ 
 
 - 🔭 I’m currently on a journey to build **great** things.
 
@@ -38,6 +30,19 @@ Hi 👋, I am Nooshin, A front-end developer from Iran. I enjoy learning what is
 
 - 📫 Reach me out at **nooshindev@gmail.com**.
 
+- 🌎 I'm based in Iran
+- 🔭 I’m currently working on Frontend Mentor challenge and taking the [#frontendmentor](https://www.frontendmentor.io) challenge
+- 🌱 I’m currently learning html.css , javascript , reactjs
+- ☀️ I'm starting to learn how to contribute to open source projects.
+- 💬 Ask me about a project collaboration.
+- ✉️ For work opportunities, you can contact me at [nooshindev@gmail.com](mailto:nooshindev@gmail.com)
+- 😄 Pronouns: She/Her
+
+<br />
+
+
+
+
 
   
 </p>
@@ -45,7 +50,6 @@ Hi 👋, I am Nooshin, A front-end developer from Iran. I enjoy learning what is
 	
 
   </p>
-
 
 
 
