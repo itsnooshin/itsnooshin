@@ -15,7 +15,7 @@
 
 <p>
   
-I'm Nooshin, an Iranian front-end developer. It is enjoyable for me to learn what goes into programming. My passion is networking, joining new communities, and adding value to them ✨
+As an Iranian front-end developer, I take great pleasure in expanding my knowledge of programming and staying up-to-date with the latest industry developments. I am driven by my passion for networking, fostering new relationships, and contributing value to the communities I engage with.
 
 <div>
 
