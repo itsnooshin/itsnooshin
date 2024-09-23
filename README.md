@@ -26,7 +26,7 @@ As an Iranian front-end developer, I take great pleasure in expanding my knowled
 
 - 🌎 I'm based in Iran
 - 🌱 I’m currently learning html, css, javascript, Reactjs ,Tailwind css , Redux
-- 🤝 For work opportunities, you can contact me at **nooshindev@gmail.com**
+- 🤝 For work opportunities, you can contact me at **nooshin.bakhtiari96@gmail.com**
 - 🖥 I Love Programming.
 - 😄 Pronouns: She/Her
 
